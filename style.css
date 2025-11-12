@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Trirong");
+header{
+    background: hsla(211, 55%, 65%, 0.704);
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: "Trirong",serif;
+    text-align: center;
+}
+body{
+    background-color: rgb(86, 145, 217);
+    font-size: x-large;
+    font-family: "Trirong",serif;
+    color:aliceblue;
+    max-width: auto;
+    margin: auto;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+    width: 50rem;
+    height: 40rem;
+    image-rendering: auto;
+    box-shadow: 5px 10px #3b57bd;
+    position: relative;
+    z-index: 10;
+}
+img:hover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+    width: 50rem;
+    height: 40rem;
+    image-rendering: auto;
+    box-shadow: 5px 10px #3b57bd;
+    position: relative;
+    z-index: 10;
+    transform: scale(0.5);
+    
+}
+a:hover{
+    background-color: aliceblue;
+    border-radius: 25%;
+}
+main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
